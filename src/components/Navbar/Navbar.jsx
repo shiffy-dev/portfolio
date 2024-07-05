@@ -6,6 +6,8 @@ import { HiOutlineMail } from 'react-icons/hi';
 import "./Navbar.css";
 import {Link} from 'react-scroll';
 
+// this is my navbar component
+
 const Navbar = () => {
     const [nav, setNav] = useState(false);
     const handleClick = () => setNav(!nav);
