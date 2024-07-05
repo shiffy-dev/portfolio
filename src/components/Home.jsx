@@ -15,13 +15,16 @@ const Home = () => {
         </p>
 
         <div className='flex justify-center mt-8'>
-          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
-            View Projects
-            <span className='group-hover:rotate-90 duration-300'>
-              <HiArrowNarrowRight className='ml-3' />
-              
-            </span>
-          </button>
+          <a href="#projects">
+            <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
+              View Projects
+              <span className='group-hover:rotate-90 duration-300'>
+                <HiArrowNarrowRight className='ml-3' />
+                
+              </span>
+            </button>
+          </a>
+            
         </div>
       </div>
     </div>
