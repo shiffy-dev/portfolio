@@ -8,9 +8,9 @@ const Home = () => {
       <div className='max-w-[1000px] mx-auto text-center text-white'>
         <p className="text-pink-600">Hi, My name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6] pt-2'>Shifa Yashfeen</h1>
-        <p className="text-[#8892b0] pl-10 pr-10 justify-center pt-5"> A final-year Computer Science Engineering student at BITS Pilani Dubai Campus. <br/>
+        <p className="text-[#8892b0] pl-10 pr-10 justify-center pt-5"> A final-year Computer Science Engineering student at BITS Pilani Dubai Campus. 
           Passionate about technology and innovation, I'm dedicated to mastering the art of software development 
-          and creating impactful solutions. <br/> Currently, I'm working on front-end development.</p>
+          and creating impactful solutions. Currently, I'm working on front-end development.</p>
           
 
         <div className='flex justify-center mt-8'>
