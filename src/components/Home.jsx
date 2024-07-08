@@ -8,7 +8,7 @@ const Home = () => {
       <div className='max-w-[1000px] mx-auto text-center text-white mt-20'>
         <p className="text-pink-600 text-[25px]">Hi, My name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6] pt-2'>Shifa Yashfeen</h1>
-        <p className="text-[#8892b0] pl-10 pr-10 justify-center pt-5 text-[25px]"> A final-year Computer Science Engineering student at BITS Pilani Dubai Campus. 
+        <p className="text-[#8892b0] pl-10 pr-10 justify-center pt-5 text-[20px]"> A final-year Computer Science Engineering student at BITS Pilani Dubai Campus. 
           Passionate about technology and innovation, I'm dedicated to mastering the art of software development 
           and creating impactful solutions. Currently, I'm working on front-end development.</p>
           
@@ -23,6 +23,7 @@ const Home = () => {
               </span>
             </button>
           </a>
+          
             
         </div>
       </div>
