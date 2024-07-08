@@ -32,7 +32,7 @@ const Projects = () => {
             </div>
           </div>
 
-          <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center mx-auto content-betweennt-div bg-white text-black p-6 transition-transform transform hover:scale-105 bg-img'>
+          <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center mx-auto content-betweennt-div bg-white text-white p-6 transition-transform transform hover:scale-105 bg-img'>
             <div className='text-center'>
               <h3 className='text-xl font-semibold mb-4'>Project 2</h3>
               <p className='mb-4'>Machine Learning project on prediction of car price.</p>
