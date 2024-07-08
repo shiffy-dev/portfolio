@@ -3,7 +3,7 @@ import { HiArrowNarrowRight } from 'react-icons/hi';
 
 const Home = () => {
   return (
-    <div name='home' className='w-full bg-[#0a192f] flex items-center justify-center text-white pt-40 '>
+    <div name='home' className='w-full bg-[#0a192f] flex items-center justify-center text-white '>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto text-center text-white mt-20'>
         <p className="text-pink-600 text-[25px]">Hi, My name is</p>
