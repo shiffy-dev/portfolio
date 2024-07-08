@@ -14,7 +14,7 @@
   }
 
 @layer base {
-    body {
+    body { 
         @apply font-[Raleway];
     }
     li {
@@ -23,6 +23,12 @@
     }
 }
 
+.bg-gif{ 
+    background-image: url("assets/Projects/air44.gif");
+}
+.bg-img{
+    background-image: url("assets/Projects/ml.png");
+}
 .content-div {
     background-repeat: no-repeat;
     background-size: cover;
