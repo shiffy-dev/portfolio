@@ -24,10 +24,10 @@
 }
 
 .bg-gif{ 
-    background-image: url("assets/Projects/air44.gif");
+    background-image: url("./assets/Projects/air44.gif");
 }
 .bg-img{
-    background-image: url("assets/Projects/ml.png");
+    background-image: url("./assets/Projects/ml.png");
 }
 .content-div {
     background-repeat: no-repeat;
